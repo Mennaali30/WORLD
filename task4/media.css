@@ -1,0 +1,211 @@
+@media (max-width:767.98px) {
+    .h4-div2{
+        width: 60%;
+    }
+    .nav1{
+        width: 100%;
+    }
+    .flex1{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .flex2{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .div-flex{
+        margin-top: 2%;
+    }
+    .flex-sec2{
+        flex-wrap: wrap;
+    }
+    .small-div{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .cards{
+        flex-wrap: wrap;
+    }
+    .nav-sec2{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .div1{
+        width: 100%;
+    }
+    .div2{
+        width: 52%;
+        margin-left: 18%;
+        flex-wrap: wrap;
+    }
+    .sec3{
+        width: 100%;
+    }
+    .flex3{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .relative3{
+        width: 48%;
+        margin-top: 2%;
+    }
+    .mediaq{
+        margin-left: 27%;
+    }
+    .load-more{
+        width: 21%;
+    }
+    .sec4{
+        width: 100%;
+    }
+    .flex-sec4{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .div22{
+        width: 100%;
+    }
+    .card1-div11{
+        margin-top: 3%;
+    }
+     .footer{
+        width: 100%;
+    } 
+    .flex-sec5{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .small-img{
+        width: 30%;
+    }
+    .small-div2{
+        width: 100%;
+    }
+    .container-content{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .num{
+    margin-right: 4%;
+    font-size: 40px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    padding-right: 6%;
+    padding-bottom: 10%;
+    padding-left: 2%;
+    }
+    .up{
+        margin-left: 86%;
+    }
+    .subscribe{
+        margin-right: 10%;
+    }
+    .btnn{
+        margin-top: 16%;
+    }
+    .card2-div11{
+        width: 100%;
+        margin-bottom: 35;
+    }
+    .h4-sec44{
+        margin-top: 5%;
+    }
+    .play {
+        top: 170px;
+        left: 270px;
+        width: 39px;
+        height: 39px;
+    }
+    .ul-sec1{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .ul-nav2{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}
+@media (max-width : 575.98px){
+    .flex1{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .nav1{
+        width: 100%;
+    }
+    .card1-div1{
+        width: 88%;
+    }
+    .card2-div1 {
+        width: 100%;
+    }
+    #sec1{
+        width: 100%;
+    }
+    .flex2{
+        flex-wrap: wrap;
+    }
+    .small-div2{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .small-img{
+        width: 30%;
+    }
+    .container-content{
+        flex-wrap: wrap;
+    }
+    .play{
+        left: 210px;
+        top: 150px;
+    }
+    .up {
+        bottom: 8px;
+        right: 50px;
+    }
+    .flex3{
+        flex-wrap: wrap;
+    }
+    .relative3{
+        width: 100%;
+        margin: 2% 0%;
+    }
+    .mediaq{
+        margin: 0%;
+        width: 100%;
+    }
+    .small{
+        width: 100%;
+    }
+    .div-small-div{
+        width: 63%;
+    }
+    .div2{
+        width: 100%;
+        margin: 0%;
+    }
+    .h4-div2{
+        width: 100%;
+    }
+    .small-div {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .smalll{
+        width: 100%;
+    }
+    .ul-sec1{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .ul-nav2{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .nav-sec2{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+}
+
